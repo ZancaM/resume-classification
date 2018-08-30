@@ -1,5 +1,17 @@
-.DS_Store
-.idea
+!data/
 data/**/*
 model/**/*
+.DS_Store
+.idea
+.vagrant
+.svn
+*.fdf
+.eslintcache
+.metadata
+.vscode
+.history
+.postgres
+.rabbit
+.redis
+.npmrc
 
